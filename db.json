@@ -4,19 +4,19 @@
       "title": "Stream Title",
       "description": "Great Stream, come watch!",
       "id": 1,
-      "userId": 1
+      "userId": 3
     },
     {
-      "title": "Stream Title 1",
-      "description": "Great Stream, come watch!",
+      "title": "Okay title",
+      "description": "This stream is aiite",
       "id": 2,
       "userId": 2
     },
     {
-      "title": "awesome title",
-      "description": "Baby monstaa",
+      "title": "Awesome title",
+      "description": "Stream about streams",
       "id": 3,
-      "userId": 3
+      "userId": 1
     }
   ]
 }
