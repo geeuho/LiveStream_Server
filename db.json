@@ -17,6 +17,17 @@
       "description": "Stream about streams",
       "id": 3,
       "userId": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "This is a new stream",
+      "id": 4
+    },
+    {
+      "title": "awesome title",
+      "description": "Baby monstaa",
+      "userId": "102721874707233748293",
+      "id": 5
     }
   ]
 }
